@@ -1,6 +1,6 @@
 # Plant Disease Classification Using a Custom CNN
 
-**Course:** Computer Vision and Pattern Recognition
+**Course:** Computer Vision and Pattern Recognition  
 **Student Name:** MD. Saidur Rahman Mahin  
 **Student ID:** 23-50578-1  
 **Framework:** Python, PyTorch, Google Colab  
